@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./werkevolume00eusegoog_0098.png"; bbox 0 0 3694 5582; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 605 2113 2873 2236">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 605 2113 2873 2236">
+     <span class='ocr_line' id='line_1_1' title="bbox 605 2113 2873 2236; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 605 2115 1470 2236; x_wconf 69' lang='lat' dir='ltr'><strong>EYEEBIOY</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1543 2117 1871 2234; x_wconf 77' lang='grc' dir='ltr'><strong>ΤΟΥ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1954 2113 2873 2232; x_wconf 79' lang='grc' dir='ltr'><strong>ΠΑΜΦΙΛΟῩ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 793 2461 2697 2548">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 793 2461 2697 2548">
+     <span class='ocr_line' id='line_1_2' title="bbox 793 2461 2697 2548; baseline -0.002 -2"><span class='ocrx_word' id='word_1_4' title='bbox 793 2465 1010 2548; x_wconf 84' lang='grc' dir='ltr'><strong>ΤΗΣ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1051 2463 2024 2546; x_wconf 82' lang='grc' dir='ltr'><strong>ΕΚΚΑΗΣΙΑΣΤΙΚΗΣ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2069 2461 2697 2545; x_wconf 82' lang='grc' dir='ltr'>ΘΕΟΛΟΙῚΑΣ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1608 2714 1867 2785">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1608 2714 1867 2785">
+     <span class='ocr_line' id='line_1_3' title="bbox 1608 2714 1867 2785; baseline -0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 1608 2714 1867 2785; x_wconf 71' lang='grc' dir='ltr'><strong>Α’-Γ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
