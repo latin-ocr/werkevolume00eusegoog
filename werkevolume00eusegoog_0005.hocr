@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./werkevolume00eusegoog/werkevolume00eusegoog_0005.png"; bbox 0 0 3694 5582; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1412 4563 2469 4621">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1412 4563 2469 4621">
+     <span class='ocr_line' id='line_1_1' title="bbox 1412 4563 2469 4621; baseline 0.004 -12"><span class='ocrx_word' id='word_1_1' title='bbox 1412 4564 1574 4615; x_wconf 66' lang='lat' dir='ltr'>Druck</span> <span class='ocrx_word' id='word_1_2' title='bbox 1604 4574 1700 4607; x_wconf 83' lang='lat' dir='ltr'>von</span> <span class='ocrx_word' id='word_1_3' title='bbox 1725 4564 1962 4615; x_wconf 74' lang='lat' dir='ltr'>August</span> <span class='ocrx_word' id='word_1_4' title='bbox 1988 4563 2157 4609; x_wconf 69' lang='lat' dir='ltr'><strong>Prion</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2185 4566 2235 4609; x_wconf 85' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_6' title='bbox 2262 4566 2469 4621; x_wconf 62' lang='lat' dir='ltr'><strong>Leipzig.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
